@@ -43,3 +43,11 @@ KEYN = 22caa631...
 - BNSR.exe NEO Client [0.8.10250.31]
 
 Should work for others as well, but I haven't tested it.
+
+## Disclaimer
+
+This project is provided for educational and research purposes only, to study executable packing
+and PE file structure. It is not affiliated with or endorsed by NCSOFT or the authors of ncguard.
+Use it only on software you are permitted to analyze, and in accordance with the applicable terms
+of service and laws. The author accepts no responsibility for misuse; the software is provided
+as is, without warranty of any kind.
