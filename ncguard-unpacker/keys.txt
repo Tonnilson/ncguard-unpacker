@@ -1,0 +1,6 @@
+# ncguard payload XOR keys (hex). KEY0 decrypts record 0, KEYN every later record.
+# Fallback only: the unpacker extracts the keys from the input and reads this file
+# only if that fails. Update these if a new ncguard build defeats the extraction.
+
+KEY0 = 1fa94f3843a74783a733cfc33c8c22b4659a87f7631929fc9073f9555ddc83ef2a514c60965fbf4ca8d18076404efc3c
+KEYN = 22caa631be154f8a8d6fa6acbeb816f5d5b8c0f7bb5241a2b621417e421977fc71bb67ad4bef446ea99eff2ddf67bf7c

@@ -1,0 +1,36 @@
+# Visual Studio local state
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+ipch/
+
+# Build output (solution- and project-level)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww]in32/
+ARM64/
+
+# Compiler / linker intermediates
+*.obj
+*.iobj
+*.ipdb
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.ipch
+*.exp
+*.lib
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+
+# Unpacker inputs and outputs (game binaries and dumps)
+*.exe
+*.dll
+*.bin
